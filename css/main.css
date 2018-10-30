@@ -46,6 +46,8 @@ p {
 footer {
   background-color: #ffe500;
   text-align: center;
+  padding: .2em .5em .3em;
+  font-size: .75rem;
 }
 
 .btn {
@@ -56,7 +58,6 @@ footer {
 
 .btn li {
   display: inline-block;
-  padding-bottom: 1em;
 }
 
 .btn a {

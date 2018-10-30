@@ -13,6 +13,10 @@ body {
   margin: 0;
 }
 
+section {
+  padding: 0 .75em;
+}
+
 header {
   background-color: #ffe500;
 }
@@ -23,7 +27,7 @@ h1 {
   font-size: 3rem;
   color: #b20953;
   text-align: center;
-  padding: .5em .3em;
+  padding: 0 .75em;
   margin: 0;
 }
 
@@ -48,10 +52,6 @@ p {
   font-family: Georgia;
 }
 
-section {
-  padding: 0 .75em;
-}
-
 footer {
   background-color: #ffe500;
   text-align: center;
@@ -71,10 +71,11 @@ footer {
 
 .btn a {
   color: #fff;
+  font-size: 1.125rem;
   display: inline-block;
   text-decoration: none;
   background-color: #b2a212;
-  padding: .5em .75em;
+  padding: .2em .5em .3em;
   border-radius: .4em;
   font-weight: normal;
   font-family: Georgia;

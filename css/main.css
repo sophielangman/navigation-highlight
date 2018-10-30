@@ -61,10 +61,11 @@ footer {
 
 .btn a {
   color: #fff;
+  display: inline-block;
   text-decoration: none;
   background-color: #b2a212;
   padding: .5em .75em;
-  border-radius: .3em;
+  border-radius: .4em;
   font-weight: normal;
   font-family: georgia;
 }

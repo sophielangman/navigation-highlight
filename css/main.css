@@ -38,6 +38,10 @@ h2 {
   color: #b20953;
 }
 
+img {
+  max-width: 100%;
+}
+
 p {
   color: black;
   font-family: georgia;

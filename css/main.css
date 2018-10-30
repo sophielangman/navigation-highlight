@@ -39,11 +39,12 @@ h2 {
 }
 
 img {
-  max-width: 100%;
+  display: block;
+  width: 100%;
 }
 
 p {
-  color: black;
+  color: #2f2d13;
   font-family: Georgia;
 }
 

@@ -33,7 +33,7 @@ h1 {
 
 nav {
   text-align: center;
-  padding: 0 0 .6em;
+  padding: 0 0 .3em;
 }
 
 h2 {
@@ -59,17 +59,17 @@ footer {
   font-size: .75rem;
 }
 
-.btn {
+nav ul {
   margin: 0;
   padding: 0;
   list-style-type: none;
 }
 
-.btn li {
+nav li {
   display: inline-block;
 }
 
-.btn a {
+.btn {
   color: #fff;
   font-size: 1.125rem;
   display: inline-block;
@@ -81,12 +81,12 @@ footer {
   font-family: Georgia;
 }
 
-.current a {
+.current {
   background-color: #cc1465;
   border-radius: .4em;
 }
 
-.btn a:hover {
+.btn:hover {
   background-color: #cc1465;
   color: #fff;
 }

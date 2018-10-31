@@ -86,7 +86,7 @@ nav li {
   border-radius: .4em;
 }
 
-.btn a:hover {
+a:hover {
   background-color: #cc1465;
   color: #fff;
 }
